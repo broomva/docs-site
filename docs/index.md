@@ -8,3 +8,7 @@ how your day went.
 - [FAQ](faq.md): the questions people ask most.
 
 Installing Pocket Timer is covered on the installation page.
+
+## More help
+
+Read the [getting started](getting-started.md) guide for your first session, or the [FAQ](faq.md) for common questions.

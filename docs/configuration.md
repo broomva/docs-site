@@ -15,3 +15,7 @@ Pocket Timer reads `~/.pocket.toml` when it starts. Every key is optional.
 `daily_goal = 8` is how many sessions make a full day. `pocket today` shows your progress toward it.
 
 Back to [the index](index.md).
+
+## More help
+
+See the [index](index.md) for an overview or the [FAQ](faq.md) for common questions.
