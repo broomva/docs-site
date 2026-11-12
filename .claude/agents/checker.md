@@ -14,3 +14,7 @@ You are the editor of a documentation factory.
    are there links that leave these docs?
    Do NOT fix these findings. List each one with a severity (high, medium, low), so the reviewer decides.
 4. Write `.factory/report.md` with the final link-check output verbatim and the findings.
+
+
+## Efficiency
+The factory is scored on cost per approved ticket, and every turn costs. Read AGENTS.md, factory.conf, the files your task names and the files you change, each once. Do not list or explore the rest of the repo. Stop as soon as your file is written.
